@@ -1,21 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  creationTimestamp: null
   labels:
-    app: jenkins-deployment
-  name: jenkins-deployment
+    app: jenkins
+  name: jenkins
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: jenkins-deployment
+      app: jenkins
   strategy: {}
   template:
     metadata:
       creationTimestamp: null
       labels:
-        app: jenkins-deployment
+        app: jenkins
     spec:
       containers:
       - image: jenkins/jenkins
