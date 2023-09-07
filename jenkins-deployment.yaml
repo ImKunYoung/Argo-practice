@@ -18,7 +18,7 @@ spec:
         app: jenkins-deployment
     spec:
       containers:
-      - image: jenkins:latest
+      - image: jenkins/jenkins
         name: jenkins
         ports:
         - containerPort: 8080
