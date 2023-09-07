@@ -12,14 +12,16 @@ https://github.com/ImKunYoung/flask-example-apps
 
 <br>
 
-![image](https://github.com/ImKunYoung/Argo-practice/assets/46955032/0cd6d3a7-895c-4c0b-a356-be6ee862e8c6)
 
+
+![image](https://github.com/ImKunYoung/Argo-practice/assets/46955032/3d7716b9-e8a4-4ab7-8928-e1f92ca3105b)
 
 
 
 <br>
 
 
+![image](https://github.com/ImKunYoung/Argo-practice/assets/46955032/da58d5ab-5c75-47c2-9b2e-4869a0292338)
 
-![image](https://github.com/ImKunYoung/Argo-practice/assets/46955032/21467202-cab2-4287-90cb-02533ebaba96)
+
 
